@@ -1,0 +1,24 @@
+@charset "utf-8";
+/*CSS Document*/
+h1{ font-size:60px; 
+    text-align: center;
+    
+}
+table{
+    border-top-color: red;
+    border-left-color: red;
+    border-right-color: red;
+    border-bottom-color: red;
+}
+#contenido{
+    background-color: deepskyblue;
+    color:aliceblue;
+    border: 3px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#encabezado{
+    background-color: deepskyblue;
+}
+#final{
+    background-color: gold;
+}
