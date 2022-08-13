@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git_Hub\\Mi proyecto de programación.csproj": {}
+    "D:\\Git_Hub\\Git_Hub.csproj": {}
   },
   "projects": {
-    "D:\\Git_Hub\\Mi proyecto de programación.csproj": {
+    "D:\\Git_Hub\\Git_Hub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git_Hub\\Mi proyecto de programación.csproj",
-        "projectName": "Mi proyecto de programación",
-        "projectPath": "D:\\Git_Hub\\Mi proyecto de programación.csproj",
+        "projectUniqueName": "D:\\Git_Hub\\Git_Hub.csproj",
+        "projectName": "Git_Hub",
+        "projectPath": "D:\\Git_Hub\\Git_Hub.csproj",
         "packagesPath": "C:\\Users\\Dorian\\.nuget\\packages\\",
         "outputPath": "D:\\Git_Hub\\obj\\",
         "projectStyle": "PackageReference",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mi proyecto de programación\\Mi proyecto de programación.csproj",
-      "projectName": "Mi proyecto de programación",
-      "projectPath": "D:\\Mi proyecto de programación\\Mi proyecto de programación.csproj",
+      "projectUniqueName": "D:\\Git_Hub\\Git_Hub.csproj",
+      "projectName": "Git_Hub",
+      "projectPath": "D:\\Git_Hub\\Git_Hub.csproj",
       "packagesPath": "C:\\Users\\Dorian\\.nuget\\packages\\",
-      "outputPath": "D:\\Mi proyecto de programación\\obj\\",
+      "outputPath": "D:\\Git_Hub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dorian\\AppData\\Roaming\\NuGet\\NuGet.Config"

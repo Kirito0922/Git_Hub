@@ -68,12 +68,14 @@ namespace PracticaCSharp
             for(int k=0; k<arreglo.Length; k++)
                 Console.WriteLine(arreglo[k]);
 
+            //Conversión de un string en una variable tipo "boolean"
             Boolean enigma = true;
             enigma = Boolean.Parse(Console.ReadLine());
             if(enigma)
             Console.WriteLine("La respuesta es correcta");
             else
             Console.WriteLine("Lo siento, estás equivocado"); 
+
         }
     }
 }
