@@ -1,0 +1,15 @@
+D:\Git_Hub\bin\Debug\net6.0\Git_Hub.exe
+D:\Git_Hub\bin\Debug\net6.0\Git_Hub.deps.json
+D:\Git_Hub\bin\Debug\net6.0\Git_Hub.runtimeconfig.json
+D:\Git_Hub\bin\Debug\net6.0\Git_Hub.dll
+D:\Git_Hub\bin\Debug\net6.0\Git_Hub.pdb
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.csproj.AssemblyReference.cache
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.AssemblyInfoInputs.cache
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.AssemblyInfo.cs
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.csproj.CoreCompileInputs.cache
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.dll
+D:\Git_Hub\obj\Debug\net6.0\refint\Git_Hub.dll
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.pdb
+D:\Git_Hub\obj\Debug\net6.0\Git_Hub.genruntimeconfig.cache
+D:\Git_Hub\obj\Debug\net6.0\ref\Git_Hub.dll
